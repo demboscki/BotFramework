@@ -1,0 +1,39 @@
+{
+  "Items": [
+    {
+      "Analyzer": "OrderByWhereLinqAnalyzer",
+      "OccurrenceCount": 1,
+      "Exceptions": null,
+      "SentToServer": true,
+      "InstallationName": "DESKTOP-LROUIJM"
+    },
+    {
+      "Analyzer": "UseIsAInsteadOfIsAssignableFromAnalyzer",
+      "OccurrenceCount": 1,
+      "Exceptions": null,
+      "SentToServer": true,
+      "InstallationName": "DESKTOP-LROUIJM"
+    },
+    {
+      "Analyzer": "FloatVariablesComparisonAnalyser",
+      "OccurrenceCount": 2,
+      "Exceptions": null,
+      "SentToServer": true,
+      "InstallationName": "DESKTOP-LROUIJM"
+    },
+    {
+      "Analyzer": "UseMaxMinInsteadOfWithMaxMinAnalyzer",
+      "OccurrenceCount": 1,
+      "Exceptions": null,
+      "SentToServer": true,
+      "InstallationName": "DESKTOP-LROUIJM"
+    },
+    {
+      "Analyzer": "UseMaxOrNullInsteadOfMaxOrDefaultWithStructsAnalyzer",
+      "OccurrenceCount": 1,
+      "Exceptions": null,
+      "SentToServer": true,
+      "InstallationName": "DESKTOP-LROUIJM"
+    }
+  ]
+}
